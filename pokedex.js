@@ -118,7 +118,7 @@ const createPokemonCard = async (pokemon) => {
 			</div>
 			<div id="${pokemon.name}_info" class="more_info" style="display:none; opacity: 0;">
 				<span class="title">Ability Info</span>
-				<h3>${ability.name}</h3>
+				<h3 class="name_ability">${ability.name}</h3>
 				<p>${ability.effect}</p>
 			</div>
 		</div>

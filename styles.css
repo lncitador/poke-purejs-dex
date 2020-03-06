@@ -90,8 +90,7 @@ h1 {
   align-content: center;
   text-align: center;
 }
-.pokemon .more_info .name_ability {
-	font-size: 0.10em;
+.more_info .name_ability {
 	letter-spacing: 2px;
 }
 
