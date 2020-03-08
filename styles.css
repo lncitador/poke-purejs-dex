@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 
 * {
   box-sizing: border-box;
@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
 
-  font-family: 'Lato';
+  font-family: "Lato";
   margin: 0;
 }
 
@@ -20,7 +20,7 @@ h1 {
   letter-spacing: 3px;
 }
 .poke-container {
-  display:flex;
+  display: flex;
   flex-wrap: wrap;
   align-items: space-between;
   justify-content: center;
@@ -59,7 +59,6 @@ h1 {
   border-radius: 10px;
   font-size: 0.8em;
   padding: 5px 10px;
-
 }
 .name {
   margin: 15px 0 7px;
@@ -91,7 +90,7 @@ h1 {
   text-align: center;
 }
 .more_info .name_ability {
-	letter-spacing: 2px;
+  letter-spacing: 2px;
 }
 
 @keyframes bounce {
